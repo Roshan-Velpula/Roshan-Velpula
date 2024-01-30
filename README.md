@@ -1,9 +1,9 @@
 ## Hello World! 🌏 I'm Roshan Velpula
 
 **About Me**
-- 👋 Data enthusiast and aspiring innovator, with a passion for transforming complex data into actionable insights.
+- 👋 AI enthusiast and aspiring Data Scientist, with a passion for transforming complex data into actionable insights.
 - 🎓 Pursuing dual Master’s degrees in Data Science and Business Analytics from prestigious French institutions CentraleSupélec and ESSEC.
-- 👀 Fascinated by the intersection of data and decision-making.
+- 👀 Fascinated by the intersection of AI and decision-making.
 
 **My Data Science Journey**
 - 🤖 Deep Dive into Deep Learning: I'm currently immersed in the fascinating world of Deep Learning, exploring cutting-edge frameworks and algorithms. My journey involves mastering tools and techniques that are at the forefront of AI innovation.
