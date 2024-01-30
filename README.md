@@ -2,7 +2,7 @@
 
 **About Me**
 - 👋 Data enthusiast and aspiring innovator, with a passion for transforming complex data into actionable insights.
-- 🎓 Pursuing dual Master’s degrees in Data Science and Business Analytics from prestigious French institutions.
+- 🎓 Pursuing dual Master’s degrees in Data Science and Business Analytics from prestigious French institutions CentraleSupélec and ESSEC.
 - 👀 Fascinated by the intersection of data and decision-making.
 
 **My Data Science Journey**
