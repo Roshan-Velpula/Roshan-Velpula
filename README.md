@@ -11,6 +11,11 @@
 - 🧠 Technical Mastery: Proficient in Python, SQL, and tools like TensorFlow and PyTorch. My focus is on leveraging these technologies to uncover deeper insights and create more sophisticated AI models.
 - 🔍 NLP and Computer Vision: Venturing beyond traditional data analysis, I'm exploring the realms of Natural Language Processing (NLP) and Computer Vision. 
 
+**Work Experience**
+- 🌱 Product Data Scientist Intern @Criteo
+- 🌱 Data Scientist @Freshworks
+- 🌱 Data Analyst @L&T
+
 **Collaborations and Interests**
 - 💞️ Eager to collaborate on projects involving AI and Data Science.
 - 🚀 Current interests are in exploring LLMs, GenAI models, and coding revolutionary models from scratch. 
